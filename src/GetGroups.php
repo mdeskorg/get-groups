@@ -2,7 +2,6 @@
 
 namespace Mdeskorg\GetGroups;
 
-use App\Models\Vkontakte;
 use Laravel\Nova\Fields\Field;
 use Laravel\Nova\Http\Requests\NovaRequest;
 
